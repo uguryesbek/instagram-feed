@@ -235,6 +235,11 @@ iframe.instafeed {
 
 @media only screen and (max-width: 600px) {
 
+  .popup {
+
+    padding-right: 0px;
+  }
+
   .instapost img {
       width: 46%;
       margin: 6px;
@@ -272,8 +277,6 @@ iframe.instafeed {
     border-top-left-radius: 12px;
   }
 }
-
-
 
 
 /* MOBILE OPTIMIZATION FINISH */
